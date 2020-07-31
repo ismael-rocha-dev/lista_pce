@@ -1,0 +1,7 @@
+Algoritmo representa um conjunto de instruções que descrevem passo a 
+passo a execução de uma tarefa. Existem diferentes tipos de algoritmos:
+Fluxograma: representa de maneira gráfica, por meio de figuras geométricas, os tipos
+de processamento, as tomadas de decisões, o início do código e toda estrutura do algoritmo.
+descrição narrativa: descrição de instruções em uma lingua humana.
+pseudocódigo: utiliza regras e termos predefinidos em uma linguagem próxima a uma linguagem
+de programação.
